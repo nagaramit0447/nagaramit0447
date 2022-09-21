@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amit Nagar
 - 👀 I’m interested in ...web development (frontend)
 - 🌱 I’m currently learning ...react.js
-- 📫 How to reach me ...amitnagar0447@gmail.com
+- 📫 How to reach me ...nagaramit0447@gmail.com
 - 
 
 <!---
